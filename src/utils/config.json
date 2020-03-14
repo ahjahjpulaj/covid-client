@@ -1,0 +1,14 @@
+{
+  "hospitalState": [
+    "totale_attualmente_positivi",
+    "totale_casi",
+    "totale_ospedalizzati",
+    "nuovi_attualmente_positivi",
+    "ricoverati_con_sintomi",
+    "terapia_intensiva",
+    "isolamento_domiciliare",
+    "dimessi_guariti",
+    "deceduti",
+    "tamponi"
+  ]
+}

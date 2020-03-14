@@ -1,0 +1,128 @@
+[
+  {
+    "key": "RE1",
+    "nome": "VALLE D'AOSTA",
+    "chartName": "VALLE D'AOSTA",
+    "code": "02"
+  },
+  {
+    "key": "RE2",
+    "nome": "PIEMONTE",
+    "chartName": "PIEMONTE",
+    "code": "01"
+  },
+  {
+    "key": "RE4",
+    "nome": "LOMBARDIA",
+    "chartName": "LOMBARDIA",
+    "code": "03"
+  },
+  {
+    "key": "RE6",
+    "nome": "TRENTINO ALTO ADIGE",
+    "chartName": "P.A. BOLZANO",
+    "code": "04"
+  },
+  {
+    "key": "RE6",
+    "nome": "TRENTINO ALTO ADIGE",
+    "chartName": "P.A. TRENTO",
+    "code": "04"
+  },
+  {
+    "key": "RE5",
+    "nome": "VENETO",
+    "chartName": "VENETO",
+    "code": "05"
+  },
+  {
+    "key": "RE7",
+    "nome": "FRIULI VENEZIA GIULIA",
+    "chartName": "FRIULI VENEZIA GIULIA",
+    "code": "06"
+  },
+  {
+    "key": "RE8",
+    "nome": "EMILIA ROMAGNA",
+    "chartName": "EMILIA ROMAGNA",
+    "code": "08"
+  },
+  {
+    "key": "RE3",
+    "nome": "LIGURIA",
+    "chartName": "LIGURIA",
+    "code": "07"
+  },
+  {
+    "key": "RE9",
+    "nome": "TOSCANA",
+    "chartName": "TOSCANA",
+    "code": "09"
+  },
+  {
+    "key": "RE10",
+    "nome": "UMBRIA",
+    "chartName": "UMBRIA",
+    "code": "10"
+  },
+  {
+    "key": "RE11",
+    "nome": "MARCHE",
+    "chartName": "MARCHE",
+    "code": "11"
+  },
+  {
+    "key": "RE12",
+    "nome": "LAZIO",
+    "chartName": "LAZIO",
+    "code": "12"
+  },
+  {
+    "key": "RE13",
+    "nome": "ABRUZZO",
+    "chartName": "ABRUZZO",
+    "code": "13"
+  },
+  {
+    "key": "RE14",
+    "nome": "MOLISE",
+    "chartName": "MOLISE",
+    "code": "14"
+  },
+  {
+    "key": "RE15",
+    "nome": "CAMPANIA",
+    "chartName": "CAMPANIA",
+    "code": "15"
+  },
+  {
+    "key": "RE16",
+    "nome": "PUGLIA",
+    "chartName": "PUGLIA",
+    "code": "16"
+  },
+  {
+    "key": "RE18",
+    "nome": "BASILICATA",
+    "chartName": "BASILICATA",
+    "code": "17"
+  },
+  {
+    "key": "RE17",
+    "nome": "CALABRIA",
+    "chartName": "CALABRIA",
+    "code": "18"
+  },
+  {
+    "key": "RE19",
+    "nome": "SICILIA",
+    "chartName": "SICILIA",
+    "code": "19"
+  },
+  {
+    "key": "RE20",
+    "nome": "SARDEGNA",
+    "chartName": "SARDEGNA",
+    "code": "20"
+  }
+]

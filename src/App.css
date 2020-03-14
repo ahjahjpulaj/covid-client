@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +35,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.map {
+  font-size: 12px;
+  text-align: center;
+  width: 100%;
+}
+.map__region {
+  cursor: pointer;
+  transition: stroke 0.3s, fill 0.3s;
+  stroke: #000;
+}
+.map__region--unselected {
+  fill: #0047bb;
+}
+.map__region--unselected.disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+.map__region--selected {
+  fill: #eedc00;
+}
+.map__region--selected.disabled {
+  opacity: 0.7;
+  cursor: default;
 }
